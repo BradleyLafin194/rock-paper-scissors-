@@ -1,0 +1,42 @@
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.exe
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.deps.json
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.runtimeconfig.json
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.dll
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.pdb
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.AssemblyInfoInputs.cache
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.AssemblyInfo.cs
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.csproj.CoreCompileInputs.cache
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.dll
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\refint\Rock_Paper_Sciscors.dll
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.pdb
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.genruntimeconfig.cache
+C:\Users\Bradley Lafin\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\ref\Rock_Paper_Sciscors.dll
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.exe
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.deps.json
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.runtimeconfig.json
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.dll
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.pdb
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.AssemblyInfoInputs.cache
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.AssemblyInfo.cs
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.csproj.CoreCompileInputs.cache
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.dll
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\refint\Rock_Paper_Sciscors.dll
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.pdb
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.genruntimeconfig.cache
+C:\Users\Bradley Lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\ref\Rock_Paper_Sciscors.dll
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.exe
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.deps.json
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.runtimeconfig.json
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.dll
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\bin\Debug\net8.0\Rock_Paper_Sciscors.pdb
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.AssemblyInfoInputs.cache
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.AssemblyInfo.cs
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.csproj.CoreCompileInputs.cache
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.dll
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\refint\Rock_Paper_Sciscors.dll
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.pdb
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\Rock_Paper_Sciscors.genruntimeconfig.cache
+C:\Users\lafin\OneDrive - University of Southern Indiana\Documents\Shools C#\Rock_Paper_Sciscors\Rock_Paper_Sciscors\obj\Debug\net8.0\ref\Rock_Paper_Sciscors.dll
